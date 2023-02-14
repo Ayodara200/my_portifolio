@@ -1,0 +1,43 @@
+@media (min-width: 992px) {
+    .about-img{
+      margin-top: 150px;
+     }
+    }
+@media (min-width: 768px) {
+    .about-img{
+      margin-top: 100px;
+     }
+    }
+@media (max-width: 992px) {
+    .skill-sec{
+      margin-top: 650px;
+     }
+    }
+@media (min-width: 768px) {
+    .skill-info{
+      margin-top: 300px;
+     }
+    }
+@media (max-width: 768px) {
+    .skill-sec{
+      margin-top: 870px;
+     }
+    }
+    .progress {
+        border-radius: 10px;
+      }
+      
+      .progress .progress-bar {
+        width: 0px;
+        border-radius: 10px;
+        transition: 2s;
+      }
+      .btn-social {
+        width: 45px;
+        height: 45px;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+        border-radius:45px;
+    }
+
